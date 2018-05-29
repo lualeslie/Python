@@ -1,2 +1,2 @@
 # Python
-python实现功能
+python实现打印、多线程等功能
